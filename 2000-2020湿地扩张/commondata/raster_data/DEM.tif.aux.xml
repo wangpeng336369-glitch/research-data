@@ -1,0 +1,14 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Metadata>
+      <MDI key="RepresentationType">THEMATIC</MDI>
+      <MDI key="STATISTICS_EXCLUDEDVALUES"></MDI>
+      <MDI key="STATISTICS_MAXIMUM">3544</MDI>
+      <MDI key="STATISTICS_MEAN">1840.3574785119</MDI>
+      <MDI key="STATISTICS_MINIMUM">648</MDI>
+      <MDI key="STATISTICS_SKIPFACTORX">1</MDI>
+      <MDI key="STATISTICS_SKIPFACTORY">1</MDI>
+      <MDI key="STATISTICS_STDDEV">427.52303396423</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>

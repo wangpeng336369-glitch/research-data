@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="zh"><Esri><CreaDate>20231211</CreaDate><CreaTime>21012300</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="e:\arcgis\desktop10.7\ArcToolbox\Toolboxes\Conversion Tools.tbx\RasterToPolygon" Date="20231211" Time="210123">RasterToPolygon liuyu1.tif E:\桌面\ArcGis相关\process\liuyu.shp SIMPLIFY Value SINGLE_OUTER_PART #</Process></lineage></DataProperties></Esri></metadata>
